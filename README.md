@@ -1,1 +1,1 @@
-https://vercel.com/selims-projects/selim-ylmaz
+https://selim-yilmaz-web-teknolojileri-odev3.vercel.app/
